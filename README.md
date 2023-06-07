@@ -4,7 +4,7 @@ This is a repository made using css grid module only. The goal of this project w
 
 # Screenshot
 
-![](screenshot.jpg)
+![screenshot](./screenshot.png)
 
 # See live
 - [Github Pages](https://fideldemoz.github.io/dashboard)
